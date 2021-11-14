@@ -10,9 +10,10 @@
     </parent>
     <groupId>com.jbruell</groupId>
     <artifactId>DonutPriorityQueue</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>DonutPriorityQueue</name>
     <description>DonutPriorityQueue</description>
+	<packaging>jar</packaging>
     <properties>
         <java.version>17</java.version>
     </properties>
